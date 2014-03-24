@@ -34,5 +34,9 @@ public class Start {
 		System.out.print("Wecome" + name + "I am Ahmed ");
 
 	}
+	
+	public void celebrate(){
+		System.out.print("*&%&$(@#(*%*^&#%*^#*^%*#^%*#^");
+	}
 
 }
