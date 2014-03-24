@@ -13,6 +13,10 @@ public class Start {
 	{
 		System.out.println("Abdelrazik");
 	}
+	
+	public void Elnozahy(String name){
+		System.out.print("Wecome" + name + "I am Ahmed ");
+	}
 
 	public int nabilAddNumber(int x,int y)
 	{
@@ -25,5 +29,11 @@ public class Start {
 			int sum =x * y;
 			return sum;
 	}
+	
+	public String welcomeMessage(String Name)
+	{
+		return "Welcome"+Name;
+	}
+	
 
 }
