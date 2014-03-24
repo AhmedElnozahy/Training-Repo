@@ -4,6 +4,7 @@ public class Start {
 	
 	String name = "";
 	
+	
 	public void showName(String name1) {
 		System.out.println(name1 +", "+name );
 	}
@@ -17,4 +18,16 @@ public class Start {
 	}
 
 
-}	
+	public int nabilAddNumber(int x,int y)
+	{
+			int sum =x + y;
+			return sum;
+	}
+	
+	public int nabilMulNumber(int x,int y)
+	{
+			int sum =x * y;
+			return sum;
+	}
+
+}
