@@ -12,5 +12,9 @@ public class Start {
 	{
 		System.out.println("Abdelrazik");
 	}
+	public void morsy (){
+		System.out.println("el 5edeewy Morsy :D ");
+	}
 
-}
+
+}	
