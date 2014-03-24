@@ -14,11 +14,31 @@ public class Start {
 		System.out.println("Abdelrazik");
 	}
 
-	public void Abdelrazik2 ()
+
+	public void morsy(){
+		System.out.println("el 5edeewy Morsy :D ");
+	}
+
+
+
+	public void Abdelrazik2()
+
 	{
 		System.out.println("Abdelrazik2");
 	}
+
 	public int nabilAddNumber1(int x,int y)
+	
+	{
+		
+		
+	}
+	
+
+
+
+	public int nabilAddNumber(int x,int y)
+
 	{
 			int sum =x + y;
 			return sum;
@@ -28,6 +48,7 @@ public class Start {
 	{
 			int sum =x * y;
 			return sum;
+
 	}
 	
 	public void Elnozahy1(String name){
@@ -37,6 +58,11 @@ public class Start {
 	
 	public void celebrate1(){
 		System.out.print("*&%&$(@#(*%*^&#%*^#*^%*#^%*#^");
+
+	}
+	
+	public void senussi() {
+		System.out.println("Hello!!");
 	}
 
 }
