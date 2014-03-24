@@ -61,6 +61,16 @@ public class Start {
 
 	}
 	
+	public void saySome() {
+		System.out.println("-----------------");
+		
+		System.out.println("-----------------");
+		System.out.println("-----------------");
+		System.out.println("-----------------");
+		System.out.println("-----------------");
+		System.out.println("-----------------");System.out.println("-----------------");
+	}
+	
 	public void senussi() {
 		System.out.println("Hello!!");
 	}
