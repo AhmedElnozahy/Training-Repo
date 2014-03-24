@@ -27,19 +27,35 @@ public class Start {
 		System.out.println("Abdelrazik2");
 	}
 
+	public int nabilAddNumber1(int x,int y)
+	
+	{
+		
+		
+	}
+	
+
+
+
 	public int nabilAddNumber(int x,int y)
+
 	{
 			int sum =x + y;
 			return sum;
 	}
 	
+<<<<<<< HEAD
 	public int nabilMultiply(int x,int y)
+=======
+	public int nabilMulNumber1(int x,int y)
+>>>>>>> 84ec2c39115f6a5aecf1afaf4219bc02f441f450
 	{
 			int sum =x * y;
 			return sum;
 
 	}
 	
+<<<<<<< HEAD
 
 	public String welcomeMessage(String Name)
 	{
@@ -48,13 +64,20 @@ public class Start {
 	
 
 	public void Elnozahy(String name){
+=======
+	public void Elnozahy1(String name){
+>>>>>>> 84ec2c39115f6a5aecf1afaf4219bc02f441f450
 		System.out.print("Wecome" + name + "I am Ahmed ");
 
 	}
 	
-	public void celebrate(){
+	public void celebrate1(){
 		System.out.print("*&%&$(@#(*%*^&#%*^#*^%*#^%*#^");
 
+	}
+	
+	public void senussi() {
+		System.out.println("Hello!!");
 	}
 
 
