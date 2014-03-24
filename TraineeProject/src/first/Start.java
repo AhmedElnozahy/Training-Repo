@@ -7,5 +7,10 @@ public class Start {
 	public void showName(String name1) {
 		System.out.println(name1 +", "+name );
 	}
+	
+	public void Abdelrazik ()
+	{
+		System.out.println("Abdelrazik");
+	}
 
 }
