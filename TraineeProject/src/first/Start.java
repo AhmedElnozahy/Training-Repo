@@ -10,5 +10,9 @@ public class Start {
 	public void bassam(){
 		System.out.print("basas");
 	}
+	
+	public void Elnozahy(String name){
+		System.out.print("Wecome" + name + "I am Ahmed ");
+	}
 
 }
