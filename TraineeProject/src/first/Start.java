@@ -14,9 +14,15 @@ public class Start {
 		System.out.println("Abdelrazik");
 	}
 
-	public int addNumber(int x,int y)
+	public int nabilAddNumber(int x,int y)
 	{
 			int sum =x + y;
+			return sum;
+	}
+	
+	public int nabilMulNumber(int x,int y)
+	{
+			int sum =x * y;
 			return sum;
 	}
 
