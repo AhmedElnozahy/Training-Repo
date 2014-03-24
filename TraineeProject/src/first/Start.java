@@ -20,7 +20,7 @@ public class Start {
 			return sum;
 	}
 	
-	public int nabilMulNumber(int x,int y)
+	public int nabilMultiply(int x,int y)
 	{
 			int sum =x * y;
 			return sum;
