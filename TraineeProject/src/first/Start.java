@@ -13,6 +13,7 @@ public class Start {
 	{
 		System.out.println("Abdelrazik");
 	}
+
 	public void Abdelrazik2 ()
 	{
 		System.out.println("Abdelrazik2");
@@ -27,6 +28,11 @@ public class Start {
 	{
 			int sum =x * y;
 			return sum;
+	}
+	
+	public void Elnozahy(String name){
+		System.out.print("Wecome" + name + "I am Ahmed ");
+
 	}
 
 }
