@@ -30,7 +30,7 @@ public class Start {
 	public int nabilAddNumber1(int x,int y)
 	
 	{
-		
+		return 0;
 		
 	}
 	
@@ -61,6 +61,7 @@ public class Start {
 
 	}
 	
+
 	public void makeConflict() {
 		System.out.println("HELLO CONLICTS");
 		System.out.println("HELLO CONLICTS");
@@ -69,6 +70,17 @@ public class Start {
 		
 	}
 	
+	
+
+	public void saySome() {
+		System.out.println("-----------------");
+		
+		System.out.println("-----------------");
+		System.out.println("-----------------");
+		System.out.println("-----------------");
+		System.out.println("-----------------");
+		System.out.println("-----------------");System.out.println("-----------------");
+	}
 	
 	public void senussi() {
 		System.out.println("Hello!!");
