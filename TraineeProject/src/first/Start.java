@@ -14,5 +14,9 @@ public class Start {
 	public void Elnozahy(String name){
 		System.out.print("Wecome" + name + "I am Ahmed ");
 	}
+	
+	public void celebrate(){
+		System.out.print("*&%&$(@#(*%*^&#%*^#*^%*#^%*#^");
+	}
 
 }
