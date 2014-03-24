@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+/first
+/morsy
+=======
 **.project
 **.classpath
 **.settings
@@ -21,3 +25,4 @@ indexes**
 indexes/
 test-output
 *.*~
+>>>>>>> eb32240480b1be9fdcc6ea7f173771703b9eeb31

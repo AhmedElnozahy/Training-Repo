@@ -12,29 +12,65 @@ public class Start {
 		System.out.print("basas");
 	}
 
-	public void Abdelrazik2 ()
+
+	public void morsy(){
+		System.out.println("el 5edeewy Morsy :D ");
+	}
+
+
+
+	public void Abdelrazik2()
+
 	{
 		System.out.println("Abdelrazik2");
 	}
+
+	public int nabilAddNumber1(int x,int y)
+	
+	{
+		
+		
+	}
+	
+
+
+
 	public int nabilAddNumber(int x,int y)
+
 	{
 			int sum =x + y;
 			return sum;
 	}
 	
-	public int nabilMulNumber(int x,int y)
+	public int nabilMulNumber1(int x,int y)
 	{
 			int sum =x * y;
 			return sum;
+
 	}
 	
-	public void Elnozahy(String name){
+	public void Elnozahy1(String name){
 		System.out.print("Wecome" + name + "I am Ahmed ");
 
 	}
 	
-	public void celebrate(){
+	public void celebrate1(){
 		System.out.print("*&%&$(@#(*%*^&#%*^#*^%*#^%*#^");
+
+	}
+	
+	public void saySome() {
+		System.out.println("-----------------");
+		
+		System.out.println("-----------------");
+		System.out.println("-----------------");
+		System.out.println("-----------------");
+		System.out.println("-----------------");
+		System.out.println("-----------------");System.out.println("-----------------");
+	}
+	
+	public void senussi() {
+		System.out.println("Hello!!");
 	}
 
 }
