@@ -38,5 +38,9 @@ public class Start {
 	public void celebrate(){
 		System.out.print("*&%&$(@#(*%*^&#%*^#*^%*#^%*#^");
 	}
+	
+	public void playing() {
+		System.out.println("traaaaaaaaace");
+	}
 
 }
