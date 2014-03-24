@@ -13,7 +13,10 @@ public class Start {
 	{
 		System.out.println("Abdelrazik");
 	}
-
+	public void Abdelrazik2 ()
+	{
+		System.out.println("Abdelrazik2");
+	}
 	public int nabilAddNumber(int x,int y)
 	{
 			int sum =x + y;
