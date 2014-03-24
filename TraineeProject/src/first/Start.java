@@ -42,14 +42,29 @@ public class Start {
 			return sum;
 	}
 	
+<<<<<<< HEAD
+	public int nabilMultiply(int x,int y)
+=======
 	public int nabilMulNumber1(int x,int y)
+>>>>>>> 84ec2c39115f6a5aecf1afaf4219bc02f441f450
 	{
 			int sum =x * y;
 			return sum;
 
 	}
 	
+<<<<<<< HEAD
+
+	public String welcomeMessage(String Name)
+	{
+		return "Welcome"+Name;
+	}
+	
+
+	public void Elnozahy(String name){
+=======
 	public void Elnozahy1(String name){
+>>>>>>> 84ec2c39115f6a5aecf1afaf4219bc02f441f450
 		System.out.print("Wecome" + name + "I am Ahmed ");
 
 	}
@@ -87,5 +102,6 @@ public class Start {
 	public void playing() {
 		System.out.println("traaaaaaaaace");
 	}
+
 
 }
