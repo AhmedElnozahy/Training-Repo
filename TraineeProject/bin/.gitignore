@@ -1,2 +1,28 @@
+<<<<<<< HEAD
 /first
 /morsy
+=======
+**.project
+**.classpath
+**.settings
+**target
+**bin
+**org.eclipse.osgi
+**.war
+**.jar
+**.log
+**.log.*
+.metadata
+search.log*
+**.svn
+activemq-data
+logs
+.reviewboardrc
+.idea/
+**.iml
+indexes**
+/start.bat
+indexes/
+test-output
+*.*~
+>>>>>>> eb32240480b1be9fdcc6ea7f173771703b9eeb31
